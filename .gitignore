@@ -70,3 +70,4 @@ gradle-app.setting
 
 /docker/data/
 /docker/tbs/
+repository.log
